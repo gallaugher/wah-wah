@@ -1,4 +1,4 @@
-# low_tone_blob_with_lights.py
+# low_tone_wah_wah.py
 import board, synthio, audiobusio, adafruit_vl53l1x, array, math, time, neopixel
 from adafruit_led_animation.color import RED, YELLOW, ORANGE, GREEN, TEAL, CYAN, BLUE, PURPLE, MAGENTA, GOLD, PINK, AQUA, JADE, AMBER, OLD_LACE, WHITE, BLACK
 INDIGO = (63, 0, 255)
